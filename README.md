@@ -1,6 +1,9 @@
 # Trantor Library's Telegram Bot
 
 ## Description
+
+[](https://www.effettoundici.it/wp-content/uploads/2020/03/unnamed.png)
+
 A trantor library's telegram Bot written in Python using this [library](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ## Deploying
