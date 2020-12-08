@@ -32,6 +32,11 @@ This bot uses the API offered by the Official Trantor Library so all credits for
 
 You can find the official web page at the following url: http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion
 
+## Note
+This bot is a really basic one... It's still plenty of features and optimization to implemenent. 
+Anyone who want to contribute is welcome. Thanks !
+Any suggesstion is appreciated :)
+
 ## Contact Me
 liljackx0@gmail.com
 
